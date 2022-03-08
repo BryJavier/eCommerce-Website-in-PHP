@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.card {
+    border: none
+}
+
+.logo {
+    background-color: #eeeeeea8
+}
+
+.totals tr td {
+    font-size: 13px
+}
+
+.content{
+    font-size: 14px;
+}
+
+.product-qty span {
+    font-size: 12px;
+    color: #838282
+}
